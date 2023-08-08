@@ -1,9 +1,5 @@
 # 어서오세요 누추한곳에
-----------
-
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat		&logo=JS		&logoColor=white"/>	
-          
+----------       
 ## __주로 사용 하는 코드__
 > JAVA <br/>
 > C/C++ <br/>
